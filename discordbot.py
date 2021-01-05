@@ -8,7 +8,7 @@ token = os.environ['DISCORD_BOT_TOKEN']
 
 
 
-bot.run(token)
+@bot.run(token)
 import time
 import requests
 import json
