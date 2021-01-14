@@ -35,7 +35,7 @@ webhook_url_Hololive = 'https://discord.com/api/webhooks/795856358612008961/sPJ0
 webhook_url_Hololive_yotei = 'https://discord.com/api/webhooks/795926589917233203/S4e57_TKVUNhYtRLjlerX-5wbbCEhejfKdCfyhmJsAdtVuEIJGPPp9z1CwusELNRwm-x' #ホロライブ配信予定
 broadcast_data = {} #配信予定のデータを格納
 
-YOUTUBE_API_KEY = []
+YOUTUBE_API_KEY = [AIzaSyCJbP-WNb4N4jMVOAC42S9bgAiBSPrP928]
 
 def dataformat_for_python(at_time): #datetime型への変換
     at_year = int(at_time[0:4])
